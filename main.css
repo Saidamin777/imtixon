@@ -1,0 +1,42 @@
+h1{
+    background-color: rgb(210, 193, 224);
+    text-align: center;
+    border: 3px solid red;
+    border-radius: 30px;
+}
+.ot{
+background-color: yellow;    
+color: green;
+text-align: center;
+}
+.lev{
+    height: 330px;
+    width: 600px;
+}
+div{
+    text-align: center;
+}
+.vel{
+    height: 330px;
+    width: 600px;
+}
+.hay{
+    background-color: black;
+    border-radius: 15px;
+    width: 98%;
+}
+.it{ width: 1300px;
+}
+button{
+    color: white;
+    background-color: rgb(85, 156, 192);
+    width: 200px;
+    height: 30px;
+}
+table{
+    width: 90%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+
+
